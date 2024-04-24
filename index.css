@@ -14151,7 +14151,7 @@ fieldset:disabled .btn {
     display: flex;
     position: relative;
 
-    & a img{
+    & img{
         width: 300px;
         height: auto;
     }
