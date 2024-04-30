@@ -14354,12 +14354,13 @@ h5{
   .projects{
     overflow-x: hidden !important;
   }
+
   @media (min-width:350px) and (max-width:700px) {
     .herocontent{
         margin-top: 100px !important;
     }
     .aboutmee{
-        margin-top: 100px;
+        margin-top: 80px;
     }
     .skill{
         overflow-x: hidden !important;
@@ -14375,6 +14376,9 @@ h5{
       }
       .footertwo{
         display: none;
+      }
+      .marginbottom{
+        margin-bottom: 20px;
       }
   }
 
